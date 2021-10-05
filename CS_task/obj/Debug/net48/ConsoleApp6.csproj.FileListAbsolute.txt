@@ -1,0 +1,9 @@
+/Users/sveta/RiderProjects/ConsoleApp6/ConsoleApp6/bin/Debug/net48/ConsoleApp6.exe.config
+/Users/sveta/RiderProjects/ConsoleApp6/ConsoleApp6/bin/Debug/net48/ConsoleApp6.exe
+/Users/sveta/RiderProjects/ConsoleApp6/ConsoleApp6/bin/Debug/net48/ConsoleApp6.pdb
+/Users/sveta/RiderProjects/ConsoleApp6/ConsoleApp6/obj/Debug/net48/ConsoleApp6.csprojAssemblyReference.cache
+/Users/sveta/RiderProjects/ConsoleApp6/ConsoleApp6/obj/Debug/net48/ConsoleApp6.AssemblyInfoInputs.cache
+/Users/sveta/RiderProjects/ConsoleApp6/ConsoleApp6/obj/Debug/net48/ConsoleApp6.AssemblyInfo.cs
+/Users/sveta/RiderProjects/ConsoleApp6/ConsoleApp6/obj/Debug/net48/ConsoleApp6.csproj.CoreCompileInputs.cache
+/Users/sveta/RiderProjects/ConsoleApp6/ConsoleApp6/obj/Debug/net48/ConsoleApp6.exe
+/Users/sveta/RiderProjects/ConsoleApp6/ConsoleApp6/obj/Debug/net48/ConsoleApp6.pdb

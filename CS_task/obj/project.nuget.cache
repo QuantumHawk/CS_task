@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NlcQYiOCw0qcOW6ytcC+MRK+HHMO//+xMMbsHGf7sYTkFPsM+cdkN1KEc8BZaQCsx9NyaxY/ewG8RiQR8c4DJQ==",
+  "success": true,
+  "projectFilePath": "/Users/sveta/RiderProjects/ConsoleApp6/CS_task/CS_task.csproj",
+  "expectedPackageFiles": [
+    "/Users/sveta/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/Users/sveta/.nuget/packages/microsoft.netframework.referenceassemblies.net48/1.0.0/microsoft.netframework.referenceassemblies.net48.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

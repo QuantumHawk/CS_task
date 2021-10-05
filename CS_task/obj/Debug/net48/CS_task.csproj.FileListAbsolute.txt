@@ -1,0 +1,8 @@
+/Users/sveta/RiderProjects/ConsoleApp6/CS_task/bin/Debug/net48/CS_task.exe.config
+/Users/sveta/RiderProjects/ConsoleApp6/CS_task/bin/Debug/net48/CS_task.exe
+/Users/sveta/RiderProjects/ConsoleApp6/CS_task/bin/Debug/net48/CS_task.pdb
+/Users/sveta/RiderProjects/ConsoleApp6/CS_task/obj/Debug/net48/CS_task.AssemblyInfoInputs.cache
+/Users/sveta/RiderProjects/ConsoleApp6/CS_task/obj/Debug/net48/CS_task.AssemblyInfo.cs
+/Users/sveta/RiderProjects/ConsoleApp6/CS_task/obj/Debug/net48/CS_task.csproj.CoreCompileInputs.cache
+/Users/sveta/RiderProjects/ConsoleApp6/CS_task/obj/Debug/net48/CS_task.exe
+/Users/sveta/RiderProjects/ConsoleApp6/CS_task/obj/Debug/net48/CS_task.pdb

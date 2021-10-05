@@ -1,0 +1,12 @@
+/Users/sveta/RiderProjects/ConsoleApp6/ConsoleApp6/bin/Debug/netcoreapp3.1/ConsoleApp6.deps.json
+/Users/sveta/RiderProjects/ConsoleApp6/ConsoleApp6/bin/Debug/netcoreapp3.1/ConsoleApp6.runtimeconfig.json
+/Users/sveta/RiderProjects/ConsoleApp6/ConsoleApp6/bin/Debug/netcoreapp3.1/ConsoleApp6.runtimeconfig.dev.json
+/Users/sveta/RiderProjects/ConsoleApp6/ConsoleApp6/bin/Debug/netcoreapp3.1/ConsoleApp6.dll
+/Users/sveta/RiderProjects/ConsoleApp6/ConsoleApp6/bin/Debug/netcoreapp3.1/ConsoleApp6.pdb
+/Users/sveta/RiderProjects/ConsoleApp6/ConsoleApp6/obj/Debug/netcoreapp3.1/ConsoleApp6.csproj.AssemblyReference.cache
+/Users/sveta/RiderProjects/ConsoleApp6/ConsoleApp6/obj/Debug/netcoreapp3.1/ConsoleApp6.AssemblyInfoInputs.cache
+/Users/sveta/RiderProjects/ConsoleApp6/ConsoleApp6/obj/Debug/netcoreapp3.1/ConsoleApp6.AssemblyInfo.cs
+/Users/sveta/RiderProjects/ConsoleApp6/ConsoleApp6/obj/Debug/netcoreapp3.1/ConsoleApp6.csproj.CoreCompileInputs.cache
+/Users/sveta/RiderProjects/ConsoleApp6/ConsoleApp6/obj/Debug/netcoreapp3.1/ConsoleApp6.dll
+/Users/sveta/RiderProjects/ConsoleApp6/ConsoleApp6/obj/Debug/netcoreapp3.1/ConsoleApp6.pdb
+/Users/sveta/RiderProjects/ConsoleApp6/ConsoleApp6/obj/Debug/netcoreapp3.1/ConsoleApp6.genruntimeconfig.cache
